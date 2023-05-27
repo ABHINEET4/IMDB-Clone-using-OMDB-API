@@ -41,7 +41,16 @@ To use the IMDB Clone application, follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
+
+
 ![Screenshot (3313)](https://github.com/ABHINEET4/IMDB-Clone-using-OMDB-API/assets/108821830/12e5d1d8-d8ea-4958-a1a9-ac417052a2c6)
 
+
 ![Screenshot (3311)](https://github.com/ABHINEET4/IMDB-Clone-using-OMDB-API/assets/108821830/b2ba8396-d74e-42ff-8781-6fde69e4307e)
+
+
+
+![Screenshot (3315)](https://github.com/ABHINEET4/IMDB-Clone-using-OMDB-API/assets/108821830/7af2397b-e356-4bc0-8bad-b33944fa9ec7)
+
+
 
