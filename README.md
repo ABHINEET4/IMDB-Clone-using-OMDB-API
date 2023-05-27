@@ -1,6 +1,8 @@
 # IMDB-Clone-using-OMDB-API
 
 
+# IMDB Clone
+
 This is a simple IMDB clone web application built using HTML, CSS, and JavaScript. It allows users to search for movies, view movie details, and add movies to their favorites list.
 
 ## Features
