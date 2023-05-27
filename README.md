@@ -1,7 +1,7 @@
 # IMDB-Clone-using-OMDB-API
 
 
-# IMDB Clone
+# IMDB Clone Hosted Website Link : https://abhineet4.github.io/IMDB-Clone-using-OMDB-API/
 
 This is a simple IMDB clone web application built using HTML, CSS, and JavaScript. It allows users to search for movies, view movie details, and add movies to their favorites list.
 
